@@ -16,8 +16,10 @@ This project on Facial Emotion Recognition using deep learning models aims to en
 
 ## Resources Used
 Packages: pandas, numpy, sklearn, matplotlib, seaborn, tensorflow.
+Dataset from Kaggle: https://www.kaggle.com/datasets/msambare/fer2013
 
 ## Model Building and Evaluation
-Metrics: Accuracy
-- Neural Network: 0.63
+Metrics: Accuracy - 0.63
+![Confusion matrix](C:\Users\laksh\Downloads\GITHUB\Confusion Matrix_FER.jpg)
+
 
