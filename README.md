@@ -15,8 +15,8 @@ Facial Emotion Recognition (FER) is a rapidly evolving field with applications i
 This project on Facial Emotion Recognition using deep learning models aims to enhance mental health diagnostics, entertainment experiences, and human-computer interaction by leveraging advanced methodologies and dataset optimizations, contributing to real-world applications and the continuous evolution of emotion recognition technologies.
 
 ## Resources Used
-Packages: pandas, numpy, sklearn, matplotlib, seaborn, tensorflow.
-Dataset from Kaggle: https://www.kaggle.com/datasets/msambare/fer2013
+- Packages: pandas, numpy, sklearn, matplotlib, seaborn, tensorflow.
+- Dataset from Kaggle: https://www.kaggle.com/datasets/msambare/fer2013
 
 ## Model Building and Evaluation
 Metrics: Accuracy - 0.63
