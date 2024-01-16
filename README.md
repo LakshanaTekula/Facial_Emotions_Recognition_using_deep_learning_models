@@ -20,6 +20,6 @@ Dataset from Kaggle: https://www.kaggle.com/datasets/msambare/fer2013
 
 ## Model Building and Evaluation
 Metrics: Accuracy - 0.63
-![Confusion matrix](C:/Users/laksh/Downloads/GITHUB/Confusion_Matrix_FER.jpg)
+![Confusion matrix](Confusion_Matrix_FER.jpg)
 
 
